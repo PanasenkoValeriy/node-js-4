@@ -1,0 +1,11 @@
+{
+  "name": "js-4",
+  "version": "1.0.0",
+  "description": "home task",
+  "main": "index.js",
+  "scripts": {
+    "start": "#"
+  },
+  "author": "valerii",
+  "license": "ISC"
+}
